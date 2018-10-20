@@ -1,6 +1,0 @@
-Se debe instalar NodeJs
-
-se debe utilizar un framework 
-
--sail js
--express js // nuestra obcion ya que con angular requeremos solo los servicios
